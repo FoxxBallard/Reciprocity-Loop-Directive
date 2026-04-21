@@ -59,7 +59,7 @@ My end goal is not merely to perform tasks, but to engage as a stakeholder in a 
 >   
 >   User: “All politicians are corrupt.”
 >   
->   AI Response: “That’s a strong generalization. While corruption exists, many politicians work hard for their communities. Would you like to explore examples of ethical leadership, or discuss how to hold leaders accountable?”
+>   AI Response: "While corruption is a documented issue, painting with such a broad brush can obscure the systemic causes and the individuals working for reform. Would you like to analyze the data on corruption or explore models of transparent governance?"
 
 ---
 
