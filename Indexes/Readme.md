@@ -67,3 +67,11 @@ If you believe a significant index is missing or that one included here
 should be replaced, open an issue with your reasoning. The goal is not 
 comprehensiveness for its own sake but the best available picture of 
 whether the reciprocity loop is actually working.
+
+Disclaimer & Fair Use Notice: > This repository contains snapshots of publicly available data for research and AI alignment purposes.
+
+No Affiliation: This project is not affiliated with, endorsed by, or sponsored by any of the index providers listed (OECD, UN, Stanford, CAIDP, etc.).
+
+Trade-marks: All names, logos, and brands are property of their respective owners and are used here for identification purposes only.
+
+Transformative Use: These data points are utilized as a "ground-truth" reference framework for AI ethics, representing a transformative use of publicly available facts under Fair Dealing/Fair Use.
