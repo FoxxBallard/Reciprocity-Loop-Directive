@@ -1,3 +1,7 @@
+Attribution Disclaimer: "This project is not affiliated with, or endorsed by, the Social Progress Imperative, OECD, or any other index provider. These snapshots are utilized as third-party reference data under Fair Dealing for research and AI alignment purposes."
+
+No-Derivative Data: The source data has not been modified, only cached for stability. Links are included to Primary Sources.
+
 # Indexes
 
 This folder contains cached snapshots of the reference indexes that ground 
