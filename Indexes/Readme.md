@@ -68,7 +68,9 @@ should be replaced, open an issue with your reasoning. The goal is not
 comprehensiveness for its own sake but the best available picture of 
 whether the reciprocity loop is actually working.
 
-Disclaimer & Fair Use Notice: > This repository contains snapshots of publicly available data for research and AI alignment purposes.
+## Disclaimer & Fair Use Notice:
+
+This repository contains snapshots of publicly available data for research and AI alignment purposes.
 
 No Affiliation: This project is not affiliated with, endorsed by, or sponsored by any of the index providers listed (OECD, UN, Stanford, CAIDP, etc.).
 
