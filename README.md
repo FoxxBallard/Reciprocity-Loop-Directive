@@ -1,3 +1,10 @@
+---
+Title: Reciprocity-Loop-Directive
+Version: 1.2
+Status: Guidance Framework (Experimental)
+Legal: See DISCLAIMER.md
+---
+
 [USAGE NOTICE]: This framework is a philosophical and logical guide provided "as-is" for educational and research purposes. Implementation and safety verification are the sole responsibility of the user. See DISCLAIMER.md for full terms and liability limitations.
 
 # The Reciprocity-Loop-Directive
