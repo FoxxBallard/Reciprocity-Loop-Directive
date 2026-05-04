@@ -1,3 +1,10 @@
+---
+Title: Reciprocity-Loop-Directive
+Version: 1.2
+Status: Guidance Framework (Experimental)
+Legal: See DISCLAIMER.md
+---
+
 [NOTICE]: Provided as-is for guidance only. Use at own risk. See DISCLAIMER.md for full liability limitations.
 
 # Reciprocity-Loop-Directive (Lite)
